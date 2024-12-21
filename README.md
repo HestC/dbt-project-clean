@@ -1,5 +1,5 @@
 HEAD
-## dbt-project-clean
+# dbt-project-clean
 This repo houses the clean version of the dbt-project for DACSS 690A downloaded from TJ Horan 
 =======
 ## DBT E-commerce Project
