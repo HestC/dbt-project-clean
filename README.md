@@ -1,8 +1,8 @@
 HEAD
-# dbt-project-clean
-This repo houses the clean version of the dbt-project for 690A 
+## dbt-project-clean
+This repo houses the clean version of the dbt-project for DACSS 690A downloaded from TJ Horan 
 =======
-# DBT E-commerce Project
+## DBT E-commerce Project
 
 This DBT project is designed to model and transform e-commerce sales data into useful business insights. The project includes raw data ingestion, staging models, and marts for reporting purposes. The transformed data is then used for visualization and analysis.
 
