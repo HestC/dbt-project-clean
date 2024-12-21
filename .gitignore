@@ -1,0 +1,16 @@
+# MacOS system files
+.DS_Store
+
+# Logs
+logs/
+target/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# DBT compiled files
+dbt_project-clean/compiled/
+dbt_project-clean/run/
+
+# User-specific configurations
+.user.yml
